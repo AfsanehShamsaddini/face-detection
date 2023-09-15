@@ -1,7 +1,7 @@
 # face,smile and eyes-detection
 This is a python project using OpenCV where you can visualise yourself and point-out your smile. OpenCV provides a real-time optimized Computer Vision library, tools, and hardware.
 <p align="center">
-   <img width="240" height="340"src="image/face.png">
+   <img width="340" height="310"src="image/face.png">
 </p>
 
 ### Installation
